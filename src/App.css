@@ -4,10 +4,19 @@
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 3px solid rgba(10, 167, 133, 0.837);
   padding: 10px;
 }
 
 .header{
+  padding: 10px;
+}
+
+footer{
+  font-size: small;
+  color: rgb(255, 106, 0);
+}
+
+body {
   padding: 10px;
 }
